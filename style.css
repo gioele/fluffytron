@@ -1,0 +1,16 @@
+body {
+	width: 40em;
+	margin-left: auto;
+	margin-right: auto;
+
+	text-align: center;
+}
+
+h1, h2, h3 {
+	font-size: 200%;
+}
+
+
+a, a:visited {
+	color: teal;
+}

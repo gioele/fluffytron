@@ -22,5 +22,5 @@ function spin() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-	setInterval(spin, 60);
+	setInterval(spin, 80);
 })

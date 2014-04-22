@@ -9,7 +9,8 @@ body {
 h1, h2, h3 {
 	color: blue;
 	font-family: "Helvetica";
-	font-size: 200%;
+	font-size: 500%;
+	text-align: right;
 }
 
 

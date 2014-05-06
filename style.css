@@ -7,8 +7,8 @@ body {
 }
 
 h1, h2, h3 {
-	color: blue;
-	font-family: "Helvetica";
+	color: red;
+	font-family: "fantasy";
 	font-size: 500%;
 	text-align: right;
 }
